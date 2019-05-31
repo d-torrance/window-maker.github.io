@@ -1,3 +1,12 @@
 title: Window Maker
 rst:
   initial_header_level: 1
+plugins:
+  - jekyll-feed
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
